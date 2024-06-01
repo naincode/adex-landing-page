@@ -8,7 +8,7 @@
 
   Adex is a fully responsive business agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/adex/"><strong>➥ Live Demo</strong></a>
+  <a href="https://adex-eight.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -31,18 +31,14 @@ To run **Adex** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/adex.git
+sudo git clone https://github.com/naincode/adex-landing-page.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/adex.git
+git clone https://github.com/naincode/adex-landing-page.git
 ```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
